@@ -344,8 +344,8 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://0dio855mq5o.typeform.com/to/uS7T46Y6">Pre-workshop Survey</a></p>
+<p><a href="https://0dio855mq5o.typeform.com/to/AzPmSaGz">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
